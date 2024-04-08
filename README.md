@@ -1,0 +1,1 @@
+#NLP technology such as TF-IDF and ML algorithms such as Naive Bayes/Random Forest/SVM/BERT are used to build detection models for three categories of hate speech, offensive language and neither based on Twitter text. The programming language is Python, and the result shows that the BERT performed best, with F1 score of 77.62%.
